@@ -1,3 +1,8 @@
+# Why the fork?
+
+Galaxy doesn't seem to play well with git submodules, and the 1.4.0 release is not available on
+Atmosphere. Easy fix is to publish the fork.
+
 # Call for maintainers
 
 Since I'm no longer actively developing an app that uses `synced-cron`, I've lost touch with the codebase and the project. I'm looking for folks to take over development and maintenance, please raise your hand if you're interested via [this issue](https://github.com/percolatestudio/meteor-synced-cron/issues/91).
